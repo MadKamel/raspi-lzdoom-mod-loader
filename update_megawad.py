@@ -1,4 +1,9 @@
 #! /usr/bin/python3
+
+# This program will download the latest version of the
+# daily megawad from soulsphere.org, and run_megawad.py
+# will run it.
+
 import datetime, os
 today = datetime.date.today()
 
