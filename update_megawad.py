@@ -7,7 +7,7 @@
 import datetime, os
 today = datetime.date.today()
 
-os.chdir('/home/pi/Desktop/Games/lzdoom')
+os.chdir('/home/pi/Desktop/Games/lzdoom') //change this to your working directory, or just comment out.
 os.system('wget https://soulsphere.org/hacks/slige/megawad.zip')
 os.system('mv megawad.zip megawads/megawad.zip')
 os.chdir('megawads')
