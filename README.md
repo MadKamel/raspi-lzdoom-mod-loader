@@ -1,6 +1,6 @@
 # raspi-lzdoom-mod-loader
 
-I made this script to make LZDoom mods easier to load. This script was built with the Raspberry Pi 3 (4 too, I guess) in mind.
+I made this script to make LZDoom mods easier to load. This script was built with the Raspberry Pi 3 (4 too, I guess) in mind. Keep in mind, before this I would use the command-line itself. It's kind of fun to have to type in the same arguments over and over again, isn't it?
 
 
 ## How to use
